@@ -1,4 +1,4 @@
-# PHP Object Injection Demo App
+# PHP Object Injection Demo App - OWASP Top 10
 
 This repository provides a demonstration of PHP Object Injection vulnerability for educational purposes. It is designed to show how serialized objects can be exploited when user input is not sanitized properly.
 
@@ -49,7 +49,7 @@ This repository provides a demonstration of PHP Object Injection vulnerability f
 
 ## ⚠️ Warning ⚠️
 
-This application is **intentionally vulnerable** and is designed for learning and educational purposes only. It serves to highlight the risks of PHP Object Injection.
+This application is **intentionally vulnerable** and is designed for learning and educational purpose only. It serves to highlight the risks of PHP Object Injection.
 
 - **Do NOT host** this application on a public server.
 - **Do NOT use** patterns from this application in any real-world application.
